@@ -1,2 +1,2 @@
 # Delete-button-animation
-It is acool animation of a delete button
+It is a cool animation of a delete button
